@@ -1,1 +1,3 @@
-# node-08-products
+# node-api-rest
+
+## Sign-up / Authentication
